@@ -350,9 +350,6 @@
         <mxCell id="jcRIVlOyZUtDFJ33kgTd-186" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;bulletList&amp;quot;,null,&amp;quot;listItem&amp;quot;,null]&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;set&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2100" y="280" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jcRIVlOyZUtDFJ33kgTd-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jcRIVlOyZUtDFJ33kgTd-5" target="jcRIVlOyZUtDFJ33kgTd-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
