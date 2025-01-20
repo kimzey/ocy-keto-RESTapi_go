@@ -68,7 +68,7 @@
           <mxGeometry x="2170" y="105" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jcRIVlOyZUtDFJ33kgTd-14" value="Schema" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="550" width="140" height="150" as="geometry" />
+          <mxGeometry x="400" y="550" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="jcRIVlOyZUtDFJ33kgTd-15" value="ID&amp;nbsp; : type up to use" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jcRIVlOyZUtDFJ33kgTd-14">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -99,6 +99,18 @@
         </mxCell>
         <mxCell id="jcRIVlOyZUtDFJ33kgTd-29" value="config_data : JSONB" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jcRIVlOyZUtDFJ33kgTd-24">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jcRIVlOyZUtDFJ33kgTd-30" value="Schema" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="550" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jcRIVlOyZUtDFJ33kgTd-31" value="ID&amp;nbsp; : type up to use" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jcRIVlOyZUtDFJ33kgTd-30">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jcRIVlOyZUtDFJ33kgTd-33" value="Level : string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jcRIVlOyZUtDFJ33kgTd-30">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jcRIVlOyZUtDFJ33kgTd-34" value="schema_data : JSONB" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jcRIVlOyZUtDFJ33kgTd-30">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
